@@ -1,0 +1,2 @@
+This project was done during a course conducted by CognitiveAI. This is just a practice session of what I learned.
+The dataset I provided was stored in IBM cloud. I downloaded it from there and used as my dataset.
